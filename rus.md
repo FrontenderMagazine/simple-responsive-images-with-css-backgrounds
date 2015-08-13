@@ -213,7 +213,7 @@
 размеру экрана (для краткости опустим код для ретины):
 
     <!DOCTYPE html>
-    <html lang="en">
+    <html lang="ru">
         <head>
             <meta charset="utf-8">
             <title></title>
@@ -262,7 +262,7 @@
 наши отзывчивые изображения начали работать правильно:
 
     <!DOCTYPE html>
-    <html lang="en">
+    <html lang="ru">
         <head>
             <meta charset="utf-8">
             <title></title>
@@ -327,7 +327,7 @@
 разметку:
 
     <!DOCTYPE html>
-    <html lang="en">
+    <html lang="ru">
         <head>
             <meta charset="utf-8">
             <title></title>
